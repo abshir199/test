@@ -1,0 +1,50 @@
+h6{
+    font-size: 24;
+}
+
+a{
+    text-decoration: none;
+    color: aqua;
+}
+
+img{
+    width: 300px;
+height: 200px;
+}
+
+
+ ul{
+    list-style: none;
+}
+
+ol{
+    list-style-type: upper-alpha;
+}
+
+div{
+    background-color: brown;
+}
+
+.firstDiv{
+    background-color: pink;
+}
+
+
+#Abshir{
+    background-color: darkorange;
+}
+
+h1{
+    font-style: italic;
+    font-family: cursive;
+    color: gold;
+}
+#title{
+    font-style: normal;
+    font-size: 86px;
+    font-family: Arial, Helvetica, sans-serif ;
+    color: black;
+    
+    
+}
+
