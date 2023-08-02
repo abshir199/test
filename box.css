@@ -1,0 +1,55 @@
+.box4{
+    background-color: yellow;
+    width: 25%;
+    border: 1px solid black;
+   height: 50%;
+    margin-left: 75%;
+}
+   
+.box1{
+ background-color: purple;
+ width: 100%;
+ border: 1px solid black;
+ margin: auto;
+}
+
+.box2{
+    background-color: brown;
+    width: 75%;
+    border: 1px solid black;
+margin-left: 25%;
+}
+
+.box3{
+    background-color: red;
+    width: 50%;
+    border: 1px solid black;
+     margin-left: 50%;
+}
+
+div{
+    background-color: black;
+}
+
+h1{
+    color: black;
+}
+
+#Last{
+    color: blue;
+}
+
+body{
+    border: 1px solid black;
+    height: 600px;
+}
+
+p{
+text-align: right;
+}
+
+img{
+    width: 50%;
+    height: auto;
+margin-left: auto;
+}

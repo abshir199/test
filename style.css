@@ -22,7 +22,7 @@ ol{
 }
 
 div{
-    background-color: brown;
+   
 }
 
 .firstDiv{
@@ -38,6 +38,7 @@ h1{
     font-style: italic;
     font-family: cursive;
     color: gold;
+    font-size: 170;
 }
 #title{
     font-style: normal;
